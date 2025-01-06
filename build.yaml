@@ -18,8 +18,5 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-null
-...
-
 include:
   - board: ferris_rev02
